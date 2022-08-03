@@ -8,17 +8,19 @@ This is the official code for the paper "Hierarchical-Bilevel-Learning-with-Arch
 
 # Train
 To search loss, you can run ```python train_search_loss.py```
+
 To search architecture, you can run ```python train_search_architecture.py```
+
 To train the model, you can run ```python train.py```
 # Pretrained models
-To evaluate our trained models, run:
-```python test.py```
+To evaluate our trained models, run```python test.py```
+
 The pretrained models are coming soon!
 
 # Reference
 If you find this code useful, please cite:
 
-@inproceedings{LiuLZFL20,
+@inproceedings{Zhu22,
 author = {Guijing Zhu and Long Ma and Risheng Liu and Xin Fan},
 title = {Bi-level Probabilistic Feature Learning for Deformable Image Registration},
 booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, {IJCAI} 2022},
