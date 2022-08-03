@@ -13,7 +13,7 @@ To search architecture, you can run ```python train_search_architecture.py```
 
 To train the model, you can run ```python train.py```
 # Pretrained models
-To evaluate our trained models, run```python test.py```
+To evaluate our trained models, run ```python test.py```
 
 The pretrained models are coming soon!
 
@@ -22,7 +22,7 @@ If you find this code useful, please cite:
 
 @inproceedings{Zhu22,
 author = {Guijing Zhu and Long Ma and Risheng Liu and Xin Fan},
-title = {Bi-level Probabilistic Feature Learning for Deformable Image Registration},
-booktitle = {Proceedings of the Twenty-Ninth International Joint Conference on Artificial Intelligence, {IJCAI} 2022},
+title = {Hierarchical Bilevel Learning with Architecture and Loss Search for Hadamard-based Image Restoration},
+booktitle = {Proceedings of International Joint Conference on Artificial Intelligence, {IJCAI} 2022},
 year = {2022},
 }
